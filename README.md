@@ -26,4 +26,4 @@
 
 # Some of the Images Related to the Project
 
-![Game](
+![Game]("https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-27%20(2).png")
