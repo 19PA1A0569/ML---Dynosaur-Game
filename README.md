@@ -1,2 +1,2 @@
 # ML-Dynosaur-Game
-This is a DYNOSAUR GAME using Teachable Machine
+<i>This is a DYNOSAUR GAME using Teachable Machine</i>
