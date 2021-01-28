@@ -11,6 +11,7 @@
 # DEMO of the Game
 
 <i>This is a Runner game using voice model of teachable machine
+  
   The dynosaur in the game escapes the Rock on saying JUMP</i>
 
 
@@ -28,7 +29,11 @@
 
 ![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-27%20(3).png)
 
+
+# The Dynosaur is Jump when we say Jump
+
 ![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-28%20(21).png)
+
 
 ![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-28%20(4).png)
 
