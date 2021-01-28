@@ -25,7 +25,7 @@
 <i>https://teachablemachine.withgoogle.com/models/JEKaJN3RH/</i>
 
 
-# Some of the Images Related to the Project
+# Game Process through Some Images
 
 ![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-27%20(3).png)
 
@@ -45,7 +45,7 @@
 
 # Demo vedio 
 
-![Game](https://youtu.be/qGvlz7uoSMU)
+[![Game](https://github.com/19PA1A0569/pictures/blob/main/IMG_20210128_140946.jpg)](https://youtu.be/qGvlz7uoSMU)
 
 
 # Online Reference
