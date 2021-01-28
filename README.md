@@ -26,4 +26,25 @@
 
 # Some of the Images Related to the Project
 
-![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-27%20(2).png)
+![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-27%20(3).png)
+
+![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-28%20(21).png)
+
+![Game](https://github.com/19PA1A0569/ML---Dynosaur-Game/blob/main/2021-01-28%20(4).png)
+
+
+# Repl Link to play the Game
+
+<i>https://RawUnkemptBotany.karnatipavani.repl.co</i>
+
+
+# Demo vedio 
+
+![vedio]()
+
+
+# Online Reference
+
+<i>https://github.com/Beat0154/easiest-game-ever</i>
+
+
