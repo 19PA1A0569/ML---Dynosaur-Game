@@ -1,2 +1,2 @@
 # ML-Dynosaur-Game
-_<i>This is a Game using ML model developed from Teachable Machine</i>_
+<b><i>This is a Game using ML model developed from Teachable Machine</i></b>
