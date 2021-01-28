@@ -43,7 +43,7 @@
 <i>https://RawUnkemptBotany.karnatipavani.repl.co</i>
 
 
-# Demo vedio 
+# Demo video 
 
 [![Game](https://github.com/19PA1A0569/pictures/blob/main/IMG_20210128_140946.jpg)](https://youtu.be/qGvlz7uoSMU)
 
